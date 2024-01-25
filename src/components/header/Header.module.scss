@@ -1,0 +1,17 @@
+
+.root {
+    flex-grow: 1;
+}
+
+.menuButton {
+    margin-right: 8px;
+}
+.title {
+    flex-grow: 1;
+}
+
+.navContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
